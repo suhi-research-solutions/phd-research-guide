@@ -5,6 +5,7 @@ A research proposal is a structured document that explains **what you intend to 
 A well-developed research proposal can also help supervisors, universities, funding organizations, and research committees evaluate the **relevance, feasibility, originality, and academic value** of a proposed research project.
 
 ---
+![Research Proposal Structure](assets/Research_Proposal_Blueprint_Guide.png)
 
 ## What Is a Research Proposal?
 
