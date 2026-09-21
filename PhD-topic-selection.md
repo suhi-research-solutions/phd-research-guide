@@ -129,6 +129,8 @@ It is to understand:
 
 A research gap is an area where existing research does not fully answer an important question or where further investigation may be justified.
 
+![Research Gap](assets/Research_gap.png)
+
 Possible forms of research gaps include:
 
 ### Knowledge Gap
