@@ -1,5 +1,5 @@
 # Literature Review
-
+![Literature Review](assets/Literature_Review.png)
 ## 1. What Is a Literature Review?
 
 A **literature review** is a systematic and organized examination of existing research, academic publications, theories, methodologies, and findings related to a specific research topic.
