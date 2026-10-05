@@ -2,7 +2,7 @@
 
 > A detailed guide to understanding, designing, and applying research methodology.
 
-**Navigation:** [README](../README.md) · [Research Guide](../research/README.md)
+**Navigation:** [README](/README.md) 
 
 ---
 
