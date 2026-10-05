@@ -1,5 +1,5 @@
 # Research Methodology
-(assets/methodology.png)
+![Methodology](assets/methodology.png)
 
 > A comprehensive guide to understanding, selecting, designing, and applying research methodology.
 
