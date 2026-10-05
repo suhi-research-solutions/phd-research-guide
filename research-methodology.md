@@ -187,31 +187,31 @@ It explains why specific methods were selected and how they fit the research pro
 
 Research methodology is important because it provides structure and direction to the research process.
 
-## 4.1 Provides Direction
+## ◦ Provides Direction
 
 It helps researchers determine what needs to be studied and how the study should be conducted.
 
-## 4.2 Creates a Systematic Process
+## ◦ Creates a Systematic Process
 
 A methodology ensures that research activities follow a logical sequence rather than being conducted randomly.
 
-## 4.3 Improves Research Quality
+## ◦ Improves Research Quality
 
 Appropriate methodological choices improve the quality of data collection and analysis.
 
-## 4.4 Supports Credible Findings
+## ◦ Supports Credible Findings
 
 A carefully designed methodology strengthens confidence in the findings.
 
-## 4.5 Improves Transparency
+## ◦ Improves Transparency
 
 Readers can understand how the research was conducted and how conclusions were reached.
 
-## 4.6 Supports Reproducibility
+## ◦ Supports Reproducibility
 
 Detailed methodological documentation allows other researchers to understand and, where appropriate, reproduce the research process.
 
-## 4.7 Helps Address the Research Problem
+## ◦ Helps Address the Research Problem
 
 The methodology connects the research problem to the evidence required to answer it.
 
