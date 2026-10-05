@@ -2,7 +2,7 @@
 
 > A comprehensive guide to understanding, selecting, designing, and applying research methodology.
 
-**Navigation:** [🏠 Research Guide](../README.md) · [📚 Research Topics](./README.md)
+**Navigation:** [🏠 Research Guide](/README.md) · [📚 Research Topics](/PhD-topic-selection.md)
 
 ---
 
