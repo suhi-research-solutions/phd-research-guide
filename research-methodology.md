@@ -58,7 +58,7 @@
 * [15. Related Research Topics](#15-related-research-topics)
 
 ---
-[!Research Methodology](assets/Research Methodology types.png)
+![Research Methodology](assets/Research-Methodology-types.png)
 # 1. Introduction
 
 Research methodology is the systematic framework, principles, strategies, and procedures used to conduct a research study.
