@@ -2,6 +2,8 @@
 
 A **thesis or dissertation** is a structured academic document that presents the research problem, objectives, methodology, findings, discussion, and conclusions of a research study. Although the exact structure varies by university, discipline, and degree level, most theses and dissertations follow a similar academic framework.
 
+![dissertation](assets/disseration-writing.png)
+
 This guide explains the major sections of a thesis or dissertation and the purpose of each section.
 
 ---
